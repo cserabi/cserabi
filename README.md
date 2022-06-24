@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Freelancing partform
 - 🌱 I’m currently Advance MERN Stack Technology
 - 👯 I’m looking to github and social media
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with new web development technology
 - 💬 Ask me about web design and development
 - 📫 How to reach me: rabiulislamhstucse@gmail.com
 - 😄 Pronouns: He/His
